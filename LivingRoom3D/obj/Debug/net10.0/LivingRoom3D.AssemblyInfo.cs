@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LivingRoom3D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1bb0523893418ff96843a045841bfd48f4b6b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LivingRoom3D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LivingRoom3D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
